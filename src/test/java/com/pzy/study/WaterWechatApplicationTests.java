@@ -1,4 +1,4 @@
-package com.pzy.study.waterwechat;
+package com.pzy.study;
 
 
 import org.junit.Test;
